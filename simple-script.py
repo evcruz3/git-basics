@@ -1,4 +1,4 @@
-x = input()
+x = int(input("Input your number: "))
 x += 6 
 
-print("Goodbye world ", x)
+print("Hello world", x)
