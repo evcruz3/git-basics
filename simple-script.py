@@ -1,4 +1,4 @@
 x = int(input("Input your number: "))
 x += 6 
 
-print("The result is: ", x)
+print("The value of x is: ", x)
